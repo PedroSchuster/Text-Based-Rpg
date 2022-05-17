@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Programaçao\Aulas\C#\Rpg\Rpg\bin\Debug\net6.0\Rpg.exe
+C:\Users\Usuario\Desktop\Programaçao\Aulas\C#\Rpg\Rpg\bin\Debug\net6.0\Rpg.deps.json
+C:\Users\Usuario\Desktop\Programaçao\Aulas\C#\Rpg\Rpg\bin\Debug\net6.0\Rpg.runtimeconfig.json
+C:\Users\Usuario\Desktop\Programaçao\Aulas\C#\Rpg\Rpg\bin\Debug\net6.0\Rpg.dll
+C:\Users\Usuario\Desktop\Programaçao\Aulas\C#\Rpg\Rpg\bin\Debug\net6.0\Rpg.pdb
+C:\Users\Usuario\Desktop\Programaçao\Aulas\C#\Rpg\Rpg\obj\Debug\net6.0\Rpg.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Programaçao\Aulas\C#\Rpg\Rpg\obj\Debug\net6.0\Rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Programaçao\Aulas\C#\Rpg\Rpg\obj\Debug\net6.0\Rpg.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Programaçao\Aulas\C#\Rpg\Rpg\obj\Debug\net6.0\Rpg.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Programaçao\Aulas\C#\Rpg\Rpg\obj\Debug\net6.0\Rpg.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Programaçao\Aulas\C#\Rpg\Rpg\obj\Debug\net6.0\Rpg.dll
+C:\Users\Usuario\Desktop\Programaçao\Aulas\C#\Rpg\Rpg\obj\Debug\net6.0\refint\Rpg.dll
+C:\Users\Usuario\Desktop\Programaçao\Aulas\C#\Rpg\Rpg\obj\Debug\net6.0\Rpg.pdb
+C:\Users\Usuario\Desktop\Programaçao\Aulas\C#\Rpg\Rpg\obj\Debug\net6.0\Rpg.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Programaçao\Aulas\C#\Rpg\Rpg\obj\Debug\net6.0\ref\Rpg.dll
